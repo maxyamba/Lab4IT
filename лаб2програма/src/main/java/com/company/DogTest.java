@@ -7,7 +7,7 @@ class DogTest {
     @org.junit.jupiter.api.Test
     void testGetDogNameMethod() {
         Dog dog = new Dog("Dima",3);
-        assertEquals("Dima", dog.getName());
+        assertEquals("Dimom", dog.getName());
 
     }
 
